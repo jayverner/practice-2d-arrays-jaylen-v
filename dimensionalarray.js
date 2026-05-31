@@ -1,5 +1,8 @@
-let allScores = new Array(3);
-
+let allScores = [
+    [65, 92, 42], 
+    [98, 100, 15], 
+    [35, 70, 54]  
+];
 
 let cheaterSeating = [
   ["A1", "A2", "A3", "A4"], 
